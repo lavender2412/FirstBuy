@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Mac book pro",
+      "category": "Laptop",
+      "date": "2022-10-03T18:30:00.000Z",
+      "type": "Brand New",
+      "price": 21222,
+      "comment": "just wanted to test it out.",
+      "id": 1
+    },
+    {
+      "productName": "MI TV",
+      "category": "Television",
+      "date": "2022-10-01T18:30:00.000Z",
+      "type": "Second Hand",
+      "price": 34000,
+      "comment": "giving out at a half price",
+      "id": 2
+    },
+    {
+      "productName": "Jupiter BS6",
+      "category": "Bike",
+      "date": "2016-06-21T18:30:00.000Z",
+      "type": "Damaged",
+      "price": 10000,
+      "comment": "have been using this for a while, so giving out for cheap price",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
